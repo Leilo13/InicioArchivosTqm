@@ -1,6 +1,6 @@
 package inicioarchivos;
 import java.util.Scanner;
-class Alumno
+class Alumno//
 {
     String nroCtrl,nom;
     byte sem;
